@@ -1,2 +1,2 @@
 # bookbot
-A data analysis project on python from Boot.dev
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
